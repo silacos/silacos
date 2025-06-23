@@ -8,10 +8,6 @@
 
 📬 [silacos@gmail.com](mailto:silacos@gmail.com) | [🌐 silacos.netlify.app](https://silacos.netlify.app/)
 
-<br>
-
----
-
 ## 🧠 About Me
 
 <br>
@@ -21,10 +17,6 @@ I’m a data scientist with **7+ years of industry experience** in **tech, finan
 My work spans predictive and causal modeling, statistical learning, time-series forecasting, dashboards, and reproducible ML pipelines. I care deeply about **clean, reusable, and insight-driven solutions** that integrate smoothly into business workflows.
 
 Alongside industry work, I’ve been a community leader — former **Director at Women Who Code** and **Co-Organizer at R-Ladies**.
-
-<br>
-
----
 
 ## 🧰 What I Do
 
@@ -44,10 +36,6 @@ Alongside industry work, I’ve been a community leader — former **Director at
 
 🧱 Clean Code & Modular Design
 
-<br>
-
----
-
 ## 🛠️ Tools & Tech
 
 <br>
@@ -62,10 +50,6 @@ Alongside industry work, I’ve been a community leader — former **Director at
 
 🤝 **Collaboration**: Jira, Notion, Confluence
 
-<br>
-
----
-
 ## 🌐📫 Find Me Online
 
 <br>
@@ -77,8 +61,6 @@ Alongside industry work, I’ve been a community leader — former **Director at
 [🐦 Twitter](https://twitter.com/silacos)
 
 [📫 Email](mailto:silacos@gmail.com)
-
-<br>
 
 ---
 
