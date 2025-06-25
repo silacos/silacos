@@ -4,11 +4,11 @@
 
 **Data Scientist | Econometrician | Ph.D. | Freelancer**
 
-🌍 Based in Spain | 🇮🇹 🇺🇾 Dual Citizen | 💬 She/Her
+🇪🇸 Based in Spain | 🇮🇹 🇺🇾 Dual Citizen | 💬 She/Her
 
 📬 [silacos@gmail.com](mailto:silacos@gmail.com) | [🌐 silacos.netlify.app](https://silacos.netlify.app/)
 
-## 💬 About Me
+## 👩 About Me
 
 <br>
 
