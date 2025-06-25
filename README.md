@@ -8,7 +8,7 @@
 
 📬 [silacos@gmail.com](mailto:silacos@gmail.com) | [🌐 silacos.netlify.app](https://silacos.netlify.app/)
 
-## 🧠 About Me
+## 💬 About Me
 
 <br>
 
@@ -50,7 +50,7 @@ Alongside industry work, I’ve been a community leader — former **Director at
 
 🤝 **Collaboration**: Jira, Notion, Confluence
 
-## 🌐📫 Find Me Online
+## 🌐 Find Me Online
 
 <br>
 
